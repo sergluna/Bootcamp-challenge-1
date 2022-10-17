@@ -4,9 +4,9 @@
 
 The repository for Challenge 1 of my Web Development bootcamp. Here you will find the html and css file required for submission.
 
-## Installation
+## Deployed Application
 
-N/A
+https://sergluna.github.io/bootcamp-challenge-1/
 
 ## Usage
 
